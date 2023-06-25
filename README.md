@@ -9,6 +9,6 @@
 На главной странице есть фильтр по категориям товаров, карточки с товарами и в нижней части расположено меню с кнопками возврата на домашнюю страницу, корзиной, и информацией о приложении.
 <p align="center"><img alt="home" src="https://github.com/Vlasdislav/MedicinesApp/blob/main/readme/icon.jpg"></p>
 <p align="center">Рисунок 2 – Вид приложения на рабочем столе</p>
-<p align="center"><img alt="home" src="https://github.com/Vlasdislav/MedicinesApp/blob/main/readme/icon.jpg"></p>
+<p align="center"><img alt="home" src="https://github.com/Vlasdislav/MedicinesApp/blob/main/readme/example-product.jpg"></p>
 <p align="center">Рисунок 3 – Страница товара</p>
 Переход к странице на рисунке 3 происходит посредством анимации. Так картинка из карточки на главное странице (Рис. 1) плавно поднимаете на верх и отрисовывает оставшийся контент данной страниц. На данной странице есть активная кнопка добавления товара в корзину «Добавить в корзину»
