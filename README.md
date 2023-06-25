@@ -10,6 +10,8 @@
 <p align="center"><img alt="home" src="https://github.com/Vlasdislav/MedicinesApp/blob/main/readme/icon.jpg"></p>
 <p align="center">Рисунок 2 – Вид приложения на рабочем столе</p>
 
+Рисунок 2 иллюстрирует иконку и название приложения, то как это представлено у пользователя на устройстве
+
 <p align="center"><img alt="home" src="https://github.com/Vlasdislav/MedicinesApp/blob/main/readme/example-product.jpg"></p>
 <p align="center">Рисунок 3 – Страница товара</p>
 
